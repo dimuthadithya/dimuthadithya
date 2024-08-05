@@ -1,4 +1,20 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
+
+Hi there, I'm [Dimuth] 👋
+
+I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lanka. I have a keen interest in web technologies and enjoy working on projects involving HTML, CSS, JavaScript, PHP, and more.
+
+🌱 I’m currently learning...
+- Advanced Web Development Techniques
+- Database Management
+- Modern Web Frameworks
+
+📫 How to reach me...
+- [LinkedIn](https://www.linkedin.com/in/dimuth-adithya/) - Connect with me on LinkedIn.
+- Email: dimuthadithya01@gmail.com - Feel free to reach out to me via email.
+
+Thanks for stopping by, and happy coding! 🚀
+
 
 <!--
 **dimuthx353/dimuthx353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
