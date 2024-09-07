@@ -28,6 +28,9 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 <br/>
 <br/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dimuthx353&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 <!--My Github Stats (Graph)-->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=dimuthx353&theme=react-dark&hide_border=true&area=true)
 
