@@ -19,22 +19,22 @@ I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lank
 <br>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/{dimuthx353}/count.svg" alt="visitor badge"/></p>
-<p align="center"><a href="https://github.com/dimuthx353"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthx353&theme=tokyonight" /></a></p>
-<p align="center" ><a href="https://github.com/dimuthx353"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimuthx353&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=dimuthx353&theme=tokyonight"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dimuthadithya}/count.svg" alt="visitor badge"/></p>
+<p align="center"><a href="https://github.com/dimuthadithya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthadithya&theme=tokyonight" /></a></p>
+<p align="center" ><a href="https://github.com/dimuthadithya"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimuthadithya&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=dimuthadithya&theme=tokyonight"></p>
 
 <br/>
 <br/>
 <br/>
 
 <p align="center"><b>🔝 Top Contributed Repo</b></p>
-<p align="center" ><a href="https://github.com/dimuthx353"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=dimuthx353&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Dave's github stats"/</a></p> 
+<p align="center" ><a href="https://github.com/dimuthadithya"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=dimuthadithya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Dave's github stats"/</a></p> 
 
 
 
 <!--My Github Stats (Graph)-->
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=dimuthx353&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=dimuthadithya&theme=react-dark&hide_border=true&area=true)
 
 
 
@@ -43,7 +43,7 @@ Thanks for stopping by, and happy coding! 🚀
 
 
 <!--
-**dimuthx353/dimuthx353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dimuthadithya/dimuthadithya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
