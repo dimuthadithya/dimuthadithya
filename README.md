@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there, I'm [Dimuth] 👋
+Hi there, I'm Dimuth 👋
 
 I'm currently studying for a Higher National Diploma at SLIATE Kegalle, Sri Lanka. I have a keen interest in web technologies and enjoy working on projects involving HTML, CSS, JavaScript, PHP, and more.
 
