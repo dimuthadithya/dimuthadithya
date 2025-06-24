@@ -148,9 +148,7 @@ const Dimuth = {
 
 <div align="center">
   <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="25" height="25" />
     Thanks for visiting!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="25" height="25" />
   </h3>
 </div>
 
