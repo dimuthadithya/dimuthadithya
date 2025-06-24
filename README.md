@@ -11,7 +11,7 @@
 
   <div>
     <img src="https://img.shields.io/badge/Focus-Web_Development-blue?style=for-the-badge" />
-    <img src="https://komarev.com/ghpvc/?username=dimuthadithya&style=for-the-badge&color=blueviolet" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=dimuthadithya&style=for-the-badge&color=blueviolet&base=81000" alt="Profile views" />
   </div>
 </div>
 
@@ -147,17 +147,11 @@ const Dimuth = {
 </div>
 
 <div align="center">
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="30" height="30" />
-  
-  <h2>Thanks for visiting!</h2>
-  
-  <p>Feel free to connect with me and explore my projects!</p>
-  
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Wave footer" />
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="25" height="25" />
+    Thanks for visiting!
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="25" height="25" />
+  </h3>
 </div>
 
 <!-- Hidden counter -->
