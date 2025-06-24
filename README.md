@@ -50,7 +50,7 @@ const Dimuth = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,bootstrap,tailwind,php,laravel,mysql,linux,git,vscode,figma&theme=dark&perline=7" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,bootstrap,tailwind,php,laravel,java,firebase,mysql,linux,git,vscode,idea,netbeans&theme=dark&perline=6" alt="Skill Icons" />
 </div>
 
 <div align="center">
@@ -82,6 +82,8 @@ const Dimuth = {
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
 </div>
 
 <div align="center">
@@ -99,9 +101,10 @@ const Dimuth = {
   <h3>Development Tools</h3>
 </div>
 
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+<div align="center">  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </div>
 
