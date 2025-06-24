@@ -29,7 +29,12 @@ const Dimuth = {
   passions: ['Web Development', 'Modern Technologies', 'Clean Code'],
   dailyDose: ['Code', 'Coffee', 'Innovation'] as const,
   favoriteQuote: 'Every line of code is a story waiting to be told',
-  goals: 'Creating seamless digital experiences that make a difference'
+  goals: 'Creating seamless digital experiences that make a difference',
+  environment: {
+    os: ['Linux', 'Windows'],
+    editor: 'VS Code',
+    database: 'MySQL'
+  }
 };
 ```
 
@@ -45,7 +50,7 @@ const Dimuth = {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,bootstrap,tailwind,php,laravel,git,vscode,figma&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,sass,bootstrap,tailwind,php,laravel,mysql,linux,git,vscode,figma&theme=dark&perline=7" alt="Skill Icons" />
 </div>
 
 <div align="center">
@@ -77,6 +82,17 @@ const Dimuth = {
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
+</div>
+
+<div align="center">
+  <h3>Operating Systems & Databases</h3>
+</div>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" /></a>
 </div>
 
 <div align="center">
@@ -131,11 +147,17 @@ const Dimuth = {
 </div>
 
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="25" height="25" />
-    Thanks for visiting!
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="25" height="25" />
-  </h3>
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Glowing%20Star.png" alt="Star" width="30" height="30" />
+  
+  <h2>Thanks for visiting!</h2>
+  
+  <p>Feel free to connect with me and explore my projects!</p>
+  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Wave footer" />
 </div>
 
 <!-- Hidden counter -->
