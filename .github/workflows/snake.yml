@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: '0 */24 * * *' # every 24 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: dimuthadithya
+          # these next 2 lines generate an animation of at most 4 months of contributions
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          snake_color: 'blue'
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: ':rocket: Generate Contribution Snake'
